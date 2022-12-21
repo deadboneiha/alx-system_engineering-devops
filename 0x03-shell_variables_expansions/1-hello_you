@@ -1,1 +1,2 @@
-VimCrypt~03!IH\ฯ่\คุฏÝฃ๎ฒู๔ึ*ตลย-ๅดÜ๊lั-vต8iBฃ"“ 
+#!/bin/bash
+echo "$USER"
